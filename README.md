@@ -1,7 +1,7 @@
 
 # About Skein
 
-We partner with organisations of all sizes to design, develop, and implement innovative digital tech for some of the worlds' biggest challenges, that included in the past solutions for providing housing, improving healthcare, fixing financial systems. 
+We partner with organisations of all sizes to design, develop, and implement innovative digital tech for some of the worlds' biggest challenges, such as data-intence healthtech system optimisation and service delivery.
 
 We have worked with over a hundred of product teams all over the world, from individual founders who are self-funded, to large multi-national organizations. We have also created our own products and technologies.
 
