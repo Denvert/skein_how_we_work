@@ -126,7 +126,6 @@ Process benefits of TDD:
 At a high level, how to test is very simple:
 - Write test first.
 - Red-Green-Refactor cycle.
-- For more specifics, we recommend our Test-Driven Rails workshop. It goes into incredible detail about the TDD workflow specifically for Ruby on Rails developers.
  
 ## Version Control
 
